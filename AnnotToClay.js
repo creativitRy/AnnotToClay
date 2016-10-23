@@ -1,4 +1,6 @@
-//no arguments
+// script.name=AnnotToClay - ctRy
+// script.description=Converts annotations to stained clay that matches the color.
+// script.hideCmdLineParams=true
 
 ///////////CODE/////////////
 
